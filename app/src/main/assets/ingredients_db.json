@@ -1,0 +1,324 @@
+[
+  {
+    "inciName": "aqua",
+    "ruName": "Вода",
+    "category": "Растворитель",
+    "safety": "SAFE",
+    "isActive": false,
+    "isThresholdMarker": false,
+    "properties": "Базовый растворитель косметических компонентов, увлажняет верхний слой эпидермиса.",
+    "articles": []
+  },
+  {
+    "inciName": "glycerin",
+    "ruName": "Глицерин",
+    "category": "Увлажнитель (хумектант)",
+    "safety": "SAFE",
+    "isActive": true,
+    "isThresholdMarker": false,
+    "properties": "Притягивает и удерживает влагу в роговом слое кожи, смягчает и защищает от сухости.",
+    "articles": [
+      {
+        "title": "Safety Assessment of Glycerin as Used in Cosmetics",
+        "authority": "CIR Expert Panel (Int. J. Toxicology)",
+        "year": "2019",
+        "summary": "Подтверждена высокая безопасность и эффективность в качестве увлажняющего агента в смываемых и несмываемых средствах.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31840548/"
+      }
+    ]
+  },
+  {
+    "inciName": "niacinamide",
+    "ruName": "Ниацинамид (Витамин B3)",
+    "category": "Актив",
+    "safety": "SAFE",
+    "isActive": true,
+    "isThresholdMarker": false,
+    "properties": "Укрепляет липидный барьер, регулирует выработку себума, осветляет пигментацию и сужает поры.",
+    "articles": [
+      {
+        "title": "Final Report of the Safety Assessment of Niacinamide and Niacin",
+        "authority": "CIR Expert Panel (Int. J. Toxicology)",
+        "year": "2005",
+        "summary": "Безопасен в косметических рецептурах; клинически доказано снижение трансэпидермальной потери влаги и улучшение барьерной функции.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/16596767/"
+      }
+    ]
+  },
+  {
+    "inciName": "panthenol",
+    "ruName": "Пантенол (Провитамин B5)",
+    "category": "Актив / Заживление",
+    "safety": "SAFE",
+    "isActive": true,
+    "isThresholdMarker": false,
+    "properties": "Ускоряет регенерацию тканей, снимает раздражение и покраснение, удерживает влагу в волосах и коже.",
+    "articles": [
+      {
+        "title": "Topical Use of Dexpanthenol in Skin Disorders",
+        "authority": "American Journal of Clinical Dermatology",
+        "year": "2002",
+        "summary": "Стимулирует эпителизацию, уменьшает зуд и восстанавливает повреждённый роговой слой кожи.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/12113650/"
+      }
+    ]
+  },
+  {
+    "inciName": "sodium hyaluronate",
+    "ruName": "Гиалуронат натрия",
+    "category": "Увлажнитель / Актив",
+    "safety": "SAFE",
+    "isActive": true,
+    "isThresholdMarker": false,
+    "properties": "Соль гиалуроновой кислоты, глубоко увлажняет, повышает эластичность и упругость кожи.",
+    "articles": [
+      {
+        "title": "Final Report of the Safety Assessment of Hyaluronic Acid and Sodium Hyaluronate",
+        "authority": "CIR Expert Panel",
+        "year": "2009",
+        "summary": "Нетоксичный и нераздражающий биополимер с выраженной влагоудерживающей способностью.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/19636067/"
+      }
+    ]
+  },
+  {
+    "inciName": "butyrospermum parkii butter",
+    "ruName": "Масло ши (Карите)",
+    "category": "Эмолент / Масло",
+    "safety": "SAFE",
+    "isActive": true,
+    "isThresholdMarker": false,
+    "properties": "Питает, восстанавливает липидный барьер, устраняет сухость и шелушение кожи и волос.",
+    "articles": []
+  },
+  {
+    "inciName": "simmondsia chinensis seed oil",
+    "ruName": "Масло жожоба",
+    "category": "Эмолент / Масло",
+    "safety": "SAFE",
+    "isActive": true,
+    "isThresholdMarker": false,
+    "properties": "По составу близко к кожному себуму, не забивает поры, питает и смягчает кожу и волосы.",
+    "articles": []
+  },
+  {
+    "inciName": "squalane",
+    "ruName": "Сквалан",
+    "category": "Эмолент",
+    "safety": "SAFE",
+    "isActive": true,
+    "isThresholdMarker": false,
+    "properties": "Лёгкий некомедогенный липид, предотвращает потерю влаги и восстанавливает мягкость кожи.",
+    "articles": []
+  },
+  {
+    "inciName": "salicylic acid",
+    "ruName": "Салициловая кислота (BHA)",
+    "category": "Кислота / Актив",
+    "safety": "SAFE",
+    "isActive": true,
+    "isThresholdMarker": false,
+    "properties": "Растворяет себум внутри пор, отшелушивает ороговевшие клетки, обладает противовоспалительным эффектом.",
+    "articles": [
+      {
+        "title": "Safety Assessment of Salicylic Acid and Salicylates as Used in Cosmetics",
+        "authority": "CIR Expert Panel",
+        "year": "2019",
+        "summary": "Эффективный кератолитик; безопасна в косметике при соблюдении рекомендуемых концентраций (до 2% в уходе).",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/31522577/"
+      }
+    ]
+  },
+  {
+    "inciName": "tocopherol",
+    "ruName": "Токоферол (Витамин E)",
+    "category": "Антиоксидант / Актив",
+    "safety": "SAFE",
+    "isActive": true,
+    "isThresholdMarker": false,
+    "properties": "Защищает клетки кожи от окислительного стресса и УФ-повреждений, продлевает свежесть масел в составе.",
+    "articles": []
+  },
+  {
+    "inciName": "sodium laureth sulfate",
+    "ruName": "SLES (Лауретсульфат натрия)",
+    "category": "Анионный ПАВ",
+    "safety": "CAUTION",
+    "isActive": false,
+    "isThresholdMarker": false,
+    "properties": "Мощный очищающий компонент для шампуней и гелей. При частом применении может пересушивать чувствительную кожу.",
+    "articles": []
+  },
+  {
+    "inciName": "sodium lauryl sulfate",
+    "ruName": "SLS (Лаурилсульфат натрия)",
+    "category": "Жёсткий ПАВ",
+    "safety": "HARMFUL",
+    "isActive": false,
+    "isThresholdMarker": false,
+    "properties": "Агрессивный ПАВ: разрушает липидный барьер, вызывает сухость, зуд и раздражение кожи головы.",
+    "articles": [
+      {
+        "title": "Human and Animal Irritation Studies of Sodium Lauryl Sulfate",
+        "authority": "CIR / Contact Dermatitis Research",
+        "year": "2010",
+        "summary": "Используется в дерматологии как эталонный раздражитель при патч-тестах. В несмываемых средствах вызывает выраженный дерматит.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/20634505/"
+      }
+    ]
+  },
+  {
+    "inciName": "cocamidopropyl betaine",
+    "ruName": "Кокамидопропилбетаин",
+    "category": "Мягкий ПАВ",
+    "safety": "SAFE",
+    "isActive": false,
+    "isThresholdMarker": false,
+    "properties": "Мягкий со-ПАВ из кокосового масла, снижает раздражающее действие сульфатов и улучшает пенообразование.",
+    "articles": []
+  },
+  {
+    "inciName": "coco-glucoside",
+    "ruName": "Коко-глюкозид",
+    "category": "Мягкий ПАВ",
+    "safety": "SAFE",
+    "isActive": false,
+    "isThresholdMarker": false,
+    "properties": "Деликатный биоразлагаемый ПАВ растительного происхождения, подходит для чувствительной кожи.",
+    "articles": []
+  },
+  {
+    "inciName": "cetearyl alcohol",
+    "ruName": "Цетеариловый спирт",
+    "category": "Жирный спирт / Эмульгатор",
+    "safety": "SAFE",
+    "isActive": false,
+    "isThresholdMarker": false,
+    "properties": "Безопасный жирный спирт: смягчает кожу и волосы, стабилизирует эмульсию (не путать с этиловым спиртом).",
+    "articles": []
+  },
+  {
+    "inciName": "dimethicone",
+    "ruName": "Диметикон",
+    "category": "Силикон",
+    "safety": "CAUTION",
+    "isActive": false,
+    "isThresholdMarker": false,
+    "properties": "Создаёт гладкую защитную плёнку на волосах и коже, облегчает расчёсывание, но не лечит и может накапливаться.",
+    "articles": []
+  },
+  {
+    "inciName": "paraffinum liquidum",
+    "ruName": "Минеральное масло (Продукт нефтепереработки)",
+    "category": "Окклюзив",
+    "safety": "CAUTION",
+    "isActive": false,
+    "isThresholdMarker": false,
+    "properties": "Дешёвый плёнкообразователь: запирает влагу на поверхности, но не питает кожу и может провоцировать комедоны.",
+    "articles": []
+  },
+  {
+    "inciName": "phenoxyethanol",
+    "ruName": "Феноксиэтанол",
+    "category": "Консервант",
+    "safety": "CAUTION",
+    "isActive": false,
+    "isThresholdMarker": true,
+    "properties": "Разрешённый консервант (дозировка в косметике всегда не более 1%). Служит маркером границы 1% концентрации.",
+    "articles": [
+      {
+        "title": "Opinion on Phenoxyethanol (SCCS/1575/16)",
+        "authority": "SCCS (Европейская комиссия по здравоохранению)",
+        "year": "2016",
+        "summary": "Безопасен для всех возрастных групп при концентрации строго не выше 1.0% в готовом косметическом продукте.",
+        "url": "https://health.ec.europa.eu/publications/phenoxyethanol_en"
+      }
+    ]
+  },
+  {
+    "inciName": "methylparaben",
+    "ruName": "Метилпарабен",
+    "category": "Консервант",
+    "safety": "CAUTION",
+    "isActive": false,
+    "isThresholdMarker": true,
+    "properties": "Консервант группы парабенов, подавляет рост бактерий и грибков. Вводится в дозировке менее 0.4%.",
+    "articles": []
+  },
+  {
+    "inciName": "dmdm hydantoin",
+    "ruName": "ДМДМ гидантоин",
+    "category": "Формальдегид-рилизер (Консервант)",
+    "safety": "HARMFUL",
+    "isActive": false,
+    "isThresholdMarker": true,
+    "properties": "Постепенно высвобождает формальдегид, является сильным контактным аллергеном и раздражителем кожи.",
+    "articles": [
+      {
+        "title": "Contact Allergy to Formaldehyde and Formaldehyde-Releasers",
+        "authority": "Contact Dermatitis / Dermatology Review",
+        "year": "2015",
+        "summary": "Частая причина аллергического контактного дерматита у пациентов с чувствительной кожей.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/25600612/"
+      }
+    ]
+  },
+  {
+    "inciName": "methylisothiazolinone",
+    "ruName": "Метилизотиазолинон (MIT)",
+    "category": "Агрессивный консервант",
+    "safety": "HARMFUL",
+    "isActive": false,
+    "isThresholdMarker": true,
+    "properties": "Сильный сенсибилизатор и аллерген; запрещён в ЕС в несмываемой косметике.",
+    "articles": [
+      {
+        "title": "Opinion on Methylisothiazolinone (SCCS/1521/13)",
+        "authority": "SCCS (Европейская комиссия по здравоохранению)",
+        "year": "2014",
+        "summary": "Высокий риск индукции контактной аллергии; признан небезопасным в несмываемых продуктах.",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/24821242/"
+      }
+    ]
+  },
+  {
+    "inciName": "bht",
+    "ruName": "Бутилгидрокситолуол (BHT)",
+    "category": "Синтетический антиоксидант",
+    "safety": "HARMFUL",
+    "isActive": false,
+    "isThresholdMarker": true,
+    "properties": "Синтетический консервант-антиоксидант, может провоцировать контактный дерматит и раздражение.",
+    "articles": []
+  },
+  {
+    "inciName": "parfum",
+    "ruName": "Отдушка (Ароматизатор)",
+    "category": "Ароматизатор",
+    "safety": "CAUTION",
+    "isActive": false,
+    "isThresholdMarker": true,
+    "properties": "Смесь ароматических соединений (обычно менее 1%). Частая причина индивидуальной аллергии и раздражения.",
+    "articles": []
+  },
+  {
+    "inciName": "fragrance",
+    "ruName": "Отдушка (Fragrance)",
+    "category": "Ароматизатор",
+    "safety": "CAUTION",
+    "isActive": false,
+    "isThresholdMarker": true,
+    "properties": "Синтетическая или натуральная ароматическая композиция (вводится в микродозах <1%).",
+    "articles": []
+  },
+  {
+    "inciName": "citric acid",
+    "ruName": "Лимонная кислота",
+    "category": "Регулятор pH",
+    "safety": "SAFE",
+    "isActive": false,
+    "isThresholdMarker": false,
+    "properties": "Выравнивает кислотно-щелочной баланс (pH) средства, мягко отшелушивает и придает блеск волосам.",
+    "articles": []
+  }
+]
